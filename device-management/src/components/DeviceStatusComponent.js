@@ -6,4 +6,5 @@ const DeviceStatusComponent = (props) => {
     )
 }
 
+
 export default DeviceStatusComponent;
